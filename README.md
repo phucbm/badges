@@ -1,12 +1,16 @@
 # badges
-Collection of README badges I regularly use
+Generate README badges I regularly use
 
-[![npm version](https://badgen.net/npm/v/@phucbm/magnetic-button?icon=npm)](https://www.npmjs.com/package/@phucbm/magnetic-button)
-[![npm downloads](https://badgen.net/npm/dm/@phucbm/magnetic-button?icon=npm)](https://www.npmjs.com/package/@phucbm/magnetic-button)
-[![npm downloads](https://badgen.net/npm/dependents/@phucbm/magnetic-button?icon=npm)](https://www.npmjs.com/package/@phucbm/magnetic-button)
-[![jsdelivr hits](https://badgen.net/jsdelivr/hits/gh/phucbm/magnetic-button?icon=jsdelivr)](https://github.com/phucbm/magnetic-button/releases)
-[![GitHub release](https://badgen.net/jsdelivr/rank/npm/@phucbm/magnetic-button?icon=jsdelivr)](https://github.com/phucbm/magnetic-button/releases)
-[![pages-build-deployment](https://github.com/phucbm/magnetic-button/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/phucbm/magnetic-button/actions/workflows/pages/pages-build-deployment)
-[![Publish on Release](https://github.com/phucbm/magnetic-button/actions/workflows/publish-on-release.yml/badge.svg)](https://github.com/phucbm/magnetic-button/actions/workflows/publish-on-release.yml)
-[![license](https://badgen.net/github/license/phucbm/magnetic-button?icon=github)](https://github.com/phucbm/magnetic-button/blob/main/LICENSE)
+This is how it should look
+
+[flickity-responsive](https://github.com/phucbm/flickity-responsive)
+
+[![npm version](https://badgen.net/npm/v/flickity-responsive?icon=npm)](https://www.npmjs.com/package/flickity-responsive)
+[![npm downloads](https://badgen.net/npm/dm/flickity-responsive?icon=npm)](https://www.npmjs.com/package/flickity-responsive)
+[![npm downloads](https://badgen.net/npm/dependents/flickity-responsive?icon=npm)](https://www.npmjs.com/package/flickity-responsive)
+[![jsdelivr hits](https://badgen.net/jsdelivr/hits/gh/phucbm/flickity-responsive?icon=jsdelivr)](https://www.jsdelivr.com/package/gh/phucbm/flickity-responsive)
+[![GitHub stars](https://badgen.net/github/stars/phucbm/flickity-responsive?icon=github)](https://github.com/phucbm/flickity-responsive/)
+[![GitHub release](https://badgen.net/jsdelivr/rank/npm/flickity-responsive?icon=jsdelivr)](https://github.com/phucbm/flickity-responsive/releases)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9f75e2e8-1ebf-4aa7-83f0-c4fb4942df2e/deploy-status)](https://app.netlify.com/sites/flickity/deploys)
+[![license](https://badgen.net/github/license/phucbm/flickity-responsive?icon=github)](https://github.com/phucbm/flickity-responsive/blob/main/LICENSE)
 [![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made.svg)](https://webuild.community)
